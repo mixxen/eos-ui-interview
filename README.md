@@ -169,6 +169,9 @@ If you complete the primary task, feel free to work on any of the following bonu
 - **Add Unit Tests**:
   - Ensure each feature is functioning correctly and that the application behaves as expected in a browser environment.
 
+- **Replace Create React App**:
+  - Migrate to a modern build tool like Vite, Parcel, or RSBuild
+
 ---
 
 Good luck, and feel free to ask if you have any questions!
